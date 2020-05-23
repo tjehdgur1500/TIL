@@ -9,8 +9,8 @@
 3. 항상 적는 습관 들이기
 
 📝 TIL List 📙
-1 . [Python](https://github.com/tjehdgur1500/TIL/tree/master/Python)
-2 . [Django](https://github.com/tjehdgur1500/TIL/tree/master/Django)
-3 . [Git](https://github.com/tjehdgur1500/TIL/tree/master/Git)
-4 . [Coop](https://github.com/tjehdgur1500/TIL/tree/master/coop)
-5 . [Algorithm]
+1 . [Python](https://github.com/tjehdgur1500/TIL/tree/master/Python)\n
+2 . [Django](https://github.com/tjehdgur1500/TIL/tree/master/Django)\n
+3 . [Git](https://github.com/tjehdgur1500/TIL/tree/master/Git)\n
+4 . [Coop](https://github.com/tjehdgur1500/TIL/tree/master/coop)\n
+5 . [Algorithm]\n
