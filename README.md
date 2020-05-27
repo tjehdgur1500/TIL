@@ -13,4 +13,4 @@
 2 . [Django](https://github.com/tjehdgur1500/TIL/tree/master/Django)  
 3 . [Git](https://github.com/tjehdgur1500/TIL/tree/master/Git)  
 4 . [Coop](https://github.com/tjehdgur1500/TIL/tree/master/coop)  
-5 . [Algorithm]  
+5 . [Algorithm](https://github.com/tjehdgur1500/TIL/tree/master/Algorithm/)  
