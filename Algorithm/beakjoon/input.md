@@ -8,7 +8,7 @@ Q. Hello World!를 출력하시오.
 
 A. Hello World! 를 `print()`로 출력해주면 된다.
 
-```py
+```python
 
 print("Hello World!)
 
@@ -23,12 +23,28 @@ Q. ACM-ICPC 인터넷 예선, Regional, 그리고 World Finals까지 이미 2회
 A. 두 줄에 걸쳐 "강한친구 대한육군"을 한 줄에 한 번씩 출력한다. `print()` 를 사용하여 문장을 출력한다.
 또는 for문을 사용하여 2번 출력하게 만들 수 있다.
 
-```py
+```python
 
 print("강한친구 대한육군")
 print("강한친구 대한육군")
 
 for _ in range(2) :
     print("강한친구 대한육군")
+
+```
+
+### 3. 고양이
+
+Q. 고양이를 출력한다.
+
+A. `print()`를 이용해 고양이 모양이 나오게 출력한다.
+DocType 으로 해도 되지만 라인마다 `print()`를 두어 출력되게 할 수 있다.
+
+```python
+
+print("\\    /\\")
+print(" )  ( ')")
+print("(  /  )")
+print(" \(__)|")
 
 ```
