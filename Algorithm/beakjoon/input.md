@@ -122,3 +122,22 @@ A, B = input().split()
 print(int(A) / int(B))
 
 ```
+
+### 9. 사칙연
+
+Q.두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오. 
+
+A. 두 정수를 받는데 한줄로 받기위해 `map(int, input().split())` map 함수를 이용해 int로 캐스팅하고
+`split` 함수로 공백을 기준으로 해서 각각 변수에 언패킹한다.
+그리고 각 줄마다 `print()`에 연산을 넣어 출력하게 만들면 된다.  
+물론 내가 작성한 코드는 하나하나 int 캐스팅을 하였다.
+```python
+
+a, b = input().split()
+print(int(a) + int(b))
+print(int(a) - int(b))
+print(int(a) * int(b))
+print(int(int(a) / int(b)))
+print(int(a) % int(b))
+
+```
