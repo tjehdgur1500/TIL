@@ -141,3 +141,23 @@ print(int(int(a) / int(b)))
 print(int(a) % int(b))
 
 ```
+
+### 10. 나머지
+
+Q. (A+B)%C는 ((A%C) + (B%C))%C 와 같을까?
+
+(A×B)%C는 ((A%C) × (B%C))%C 와 같을까?
+
+세 수 A, B, C가 주어졌을 때, 위의 네 가지 값을 구하는 프로그램을 작성하시오. 
+
+A. 문제에서 요구한것처럼 정수를 받는 변수들을 `if elif` 조건을 걸어서 판별해줄 수 있다. 
+```python
+
+A, B, C = map(int, input().split())
+
+print((A+B)%C)
+print(((A%C) + (B%C))%C)
+print((A*B)%C)
+print(((A%C)*(B%C))%C)
+
+```
