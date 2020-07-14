@@ -15,9 +15,9 @@ function starRepeat(height) {
     console.log(star);
     star += "*";
   }
-
-  starRepeat(5);
-  starRepeat(3);
-  starRepeat(1);
 }
+
+starRepeat(5);
+starRepeat(3);
+starRepeat(1);
 ```
